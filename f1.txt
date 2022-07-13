@@ -1,2 +1,3 @@
 int equalTo()
 int main() {}
+int main() {console.log(hello world);}
